@@ -1,2 +1,2 @@
-Projeto para ciencias da compatação UBC 
+Projeto para Ciências da Computação - UBC 
 ```
