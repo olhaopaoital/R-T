@@ -17,9 +17,9 @@ Etapa 3: Definição das Tecnologias Usadas
 ●
 Linguagem: Python, HTML, CSS, JavaScript
 ●
-Framework:
+Framework: FastAPI
 ●
-Bibliotheca:
+Bibliotheca: 
 
 
 ```
